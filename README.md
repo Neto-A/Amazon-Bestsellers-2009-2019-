@@ -50,6 +50,8 @@ I hope with this thorough review, you will be guided on finding your next read. 
 
 What about you?
 
+> Read the blog post for this project [here](https://docs.google.com/document/d/1NMBxlHDjWoh4JAuFfTvvWq5OSd688g8H/edit?usp=share_link&ouid=111491279088160291753&rtpof=true&sd=true).
+
 <a id='references'></a>
 ## References
 1. https://reflect.run/articles/installing-chromedriver-and-python-selenium/
