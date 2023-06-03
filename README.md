@@ -59,3 +59,6 @@ What about you?
 3. https://chromedriver.chromium.org/downloads
 4. https://wordsrated.com/amazon-print-book-sales-statistics/#:~:text=U.S.%20publishers%20sold%20825.7%20million,million%20print%20books%20each%20year.
 5. https://rgb.to/hex/ff9900
+
+## Visualization
+The interactive report for this project was done using Power BI and can be seen [here](https://app.powerbi.com/view?r=eyJrIjoiZTgxN2ZjM2UtOWE0ZS00YTNjLWE4MzUtYzkwZThkMWVlNTFlIiwidCI6ImEzMjNmYmMzLTM3NzUtNDNhMi05MWYxLTA4YWY1ZTA1MTVhZSJ9)
